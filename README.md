@@ -9,7 +9,7 @@
 | **[wechat-illustrator](./wechat-illustrator/)** | 🎨 微信公众号文章配图神器。自动提取痛点、生成手绘风格插图与封面。 | ✅ 已发布 |
 | **[novel-analyzer](./novel-analyzer/)** | 📚 热门小说分析师。分析网文趋势并提供创作灵感。 | ✅ 已发布 |
 | **[wechat-draft-porter](./wechat-draft-porter/)** | 📤 公众号草稿搬运工。只写草稿不发布；实现在 [mcp 仓库](https://github.com/wangyuancun/mcp) 的 `wechat-mp/` 子目录，本目录只放技能定义。 | ✅ 已发布 |
-| **[fontworks](./fontworks/)** | 🖋 字体工坊。用一句话、手写照片或参考图生成可安装的字体家族；内置 3000 常用汉字的 OFL 子集，全程离线。 | 🕓 审核中 |
+| **[fontworks](./fontworks/)** | 🖋 字体工坊。用一句话、手写照片或参考图生成可安装的字体家族；内置 3000 常用汉字的 OFL 子集，全程离线。 | ✅ 已发布 |
 
 ## 🚀 如何使用
 
