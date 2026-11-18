@@ -1,0 +1,6 @@
+interface:
+  display_name: "FontWorks 字体工坊"
+  short_description: "Make original font families from a brief, handwriting or a reference image"
+  icon_small: "./assets/fontworks-small.svg"
+  icon_large: "./assets/fontworks.png"
+  default_prompt: "Use $fontworks to make me a font. Show the menu first."

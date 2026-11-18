@@ -1,0 +1,13 @@
+fonttools>=4.50
+fontmake>=3.9
+ufoLib2>=0.16
+skia-pathops>=0.8
+uharfbuzz>=0.39
+numpy>=1.24
+brotli>=1.1
+cairosvg>=2.7
+# photo routes (handwriting sheet, quick photo) and brand assets
+opencv-python-headless>=4.8
+potracer>=0.0.4
+pillow>=10
+pypdf>=4
